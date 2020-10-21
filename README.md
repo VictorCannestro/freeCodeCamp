@@ -1,2 +1,2 @@
 # freeCodeCamp
-Scientific Computing with Python projects
+https://www.freecodecamp.org/learn
