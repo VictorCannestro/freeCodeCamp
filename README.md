@@ -10,4 +10,4 @@ To date I have completed the courses in the checked curriculums listed below. Th
 - JavaScript Algorithms and Data Structures Certification (300hrs)
 
 
-<img src="../figs/certification_scientific_computing.png">
+<img src="https://github.com/VictorCannestro/freeCodeCamp/blob/main/figs/certification_scientific_computing.PNG">
