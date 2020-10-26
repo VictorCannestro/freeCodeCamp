@@ -4,10 +4,10 @@
 ## Certifications 
 To date I have completed the courses in the checked curriculums listed below. This list contains the certifications I plan on obtaining:
 
-- [x] Scientific Computing with Python Certification (300hrs)
-- [x] Data Analysis with Python Certification (300hrs)
-- Machine Learning with Python Certification (300hrs)
-- JavaScript Algorithms and Data Structures Certification (300hrs)
+- [x] Scientific Computing with Python Certification
+- [x] Data Analysis with Python Certification
+- Machine Learning with Python Certification
+- JavaScript Algorithms and Data Structures Certification
 
 
 <img src="https://github.com/VictorCannestro/freeCodeCamp/blob/main/figs/certification_scientific_computing.PNG">
