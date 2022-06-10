@@ -7,7 +7,9 @@ To date I have completed the courses in the checked curriculums listed below. Th
 - [x] Scientific Computing with Python Certification
 - [x] Data Analysis with Python Certification
 - Machine Learning with Python Certification
-- JavaScript Algorithms and Data Structures Certification
+- Responsive Web Design
+- Front End Development Libraries
+- Back End Development and APIs
 
 
 <img src="https://github.com/VictorCannestro/freeCodeCamp/blob/main/figs/certification_scientific_computing.PNG">
